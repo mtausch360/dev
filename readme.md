@@ -19,3 +19,7 @@ Oh My Zsh Installation
 	https://gist.github.com/kevin-smets/8568070
 
 
+##Git
+
+Set permanent Credentials
+	http://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-on-github
