@@ -10,6 +10,9 @@ https://github.com/voronianski/oceanic-next-color-scheme
 Boxy Ocean Sublime theme
 https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016
 
+###plugins
+*Babel Sublime syntax support for JSX
+*Emmet
 ##iterm
 
 Color Schemes: https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/README.md
