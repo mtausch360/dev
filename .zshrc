@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/marktausch/.oh-my-zsh
+export ZSH=/Users/$USER/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
@@ -100,11 +100,11 @@ alias work='gtw'
 alias ..='cd ..'
 alias ....='cd ../..'
 alias ......='cd ../../..'
-alias gtpg='cd /Users/marktausch/programming'
-alias gtwk=n'cd /Users/marktausch/programming/work/'
-alias gtpj='cd /Users/marktausch/programming/projects/'
+alias gtpg='cd /Users/$USER/programming'
+alias gtwk=n'cd /Users/$USER/programming/work/'
+alias gtpj='cd /Users/$USER/programming/projects/'
 alias gths='gtpg; cd haskell'
-alias gtwk='cd /Users/marktausch/programming/work'
+alias gtwk='cd /Users/$USER/programming/work'
 
 alias editalias='subl ~/.zshrc'
 alias compilealias='source ~/.zshrc'
@@ -113,9 +113,9 @@ alias compilealias='source ~/.zshrc'
 # project aliases
 #
 
-alias gtloans='cd /Users/marktausch/programming/projects/loan-lifecycle'
+alias gtloans='cd /Users/$USER/programming/projects/loan-lifecycle'
 alias gtl='gtloans'
-alias gtbyoa='cd /Users/marktausch/programming/angular/build-your-own-angular; open -a Preview build_your_own_angularjs_newer.pdf; subl .'
+alias gtbyoa='cd /Users/$USER/programming/angular/build-your-own-angular; open -a Preview build_your_own_angularjs_newer.pdf; subl .'
 
 
 #
