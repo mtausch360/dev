@@ -51,6 +51,9 @@ ZSH_THEME="agnoster"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git)
 
+# need this for oh my zsh to work
+source $ZSH/oh-my-zsh.sh 
+
 # User configuration
 export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 
@@ -81,8 +84,17 @@ export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+#
+# custom settings
+#
 
-#instant directories
+# disable auto CD
+# unsetopt AUTO_CD
+
+#
+# instant directories
+#
+
 alias home='cd ~'
 alias work='gtw'
 alias ..='cd ..'
@@ -91,18 +103,30 @@ alias ......='cd ../../..'
 alias gtpg='cd /Users/marktausch/programming'
 alias gtwk=n'cd /Users/marktausch/programming/work/'
 alias gtpj='cd /Users/marktausch/programming/projects/'
+alias gths='gtpg; cd haskell'
+alias gtwk='cd /Users/marktausch/programming/work'
 
 alias editalias='subl ~/.zshrc'
 alias compilealias='source ~/.zshrc'
 
-#project aliases
+#
+# project aliases
+#
+
 alias gtloans='cd /Users/marktausch/programming/projects/loan-lifecycle'
 alias gtl='gtloans'
 alias gtbyoa='cd /Users/marktausch/programming/angular/build-your-own-angular; open -a Preview build_your_own_angularjs_newer.pdf; subl .'
-alias gths='gtpg; cd haskell'
-alias gtwk='cd /Users/marktausch/programming/work
 
 
+#
+# iterm commands
+#
+alias openTab='openNewItermTab'
 
-#compile zshrc on edit
-source $ZSH/oh-my-zsh.sh
+
+#
+# functions
+#
+openNewItermTab() {
+	command osascript -e 'tell application "iTerm" to activate' -e 'tell application "System Events" to tell process "iTerm" to keystroke "t" using command down' -e 'tell application "System Events" to tell process "iTerm" to keystroke "ls"' -e 'tell application "System Events" to tell process "iTerm" to key code 52'
+}
