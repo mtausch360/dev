@@ -14,6 +14,9 @@ https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016
 *Babel Sublime syntax support for JSX
 *Emmet
 *sidebarenhancements https://github.com/titoBouzout/SideBarEnhancements
+*ESLint - https://github.com/yannickcr/eslint-plugin-react
+*Sublime linter - https://github.com/roadhump/SublimeLinter-eslint
+
 
 ##iterm
 
