@@ -17,7 +17,6 @@ Boxy Ocean Sublime theme
 * ESLint - https://github.com/yannickcr/eslint-plugin-react
 * Sublime linter - https://github.com/roadhump/SublimeLinter-eslint
 
-
 # iterm
 
 Color Schemes
@@ -35,3 +34,8 @@ Oh My Zsh Installation
 
 Set permanent Credentials
 * http://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-on-github
+
+
+# SSH
+So you don't need to enter ssh password all day
+  http://apple.stackexchange.com/questions/18458/password-dialog-appears-when-ssh-private-key-permissions-are-set-to-0600
