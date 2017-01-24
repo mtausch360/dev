@@ -10,12 +10,17 @@ Oceanic Next color theme for ES6/JSX support
 Boxy Ocean Sublime theme
 * https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016
 
+Ruby
+* https://mattbrictson.com/sublime-text-3-recommendations
+
 ### plugins
 * Babel Sublime syntax support for JSX
 * Emmet
 * sidebarenhancements https://github.com/titoBouzout/SideBarEnhancements
 * ESLint - https://github.com/yannickcr/eslint-plugin-react
 * Sublime linter - https://github.com/roadhump/SublimeLinter-eslint
+* Advanced New File - https://packagecontrol.io/packages/AdvancedNewFile
+* GitGutter - https://packagecontrol.io/packages/GitGutter
 
 # iterm
 
