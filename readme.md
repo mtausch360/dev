@@ -21,6 +21,7 @@ Ruby
 * Sublime linter - https://github.com/roadhump/SublimeLinter-eslint
 * Advanced New File - https://packagecontrol.io/packages/AdvancedNewFile
 * GitGutter - https://packagecontrol.io/packages/GitGutter
+* Origami - https://github.com/SublimeText/Origami
 
 # iterm
 
