@@ -45,3 +45,8 @@ Set permanent Credentials
 # SSH
 So you don't need to enter ssh password all day
   http://apple.stackexchange.com/questions/18458/password-dialog-appears-when-ssh-private-key-permissions-are-set-to-0600
+
+# Misc Problems
+
+Swap unique indexed column values in database
+* https://stackoverflow.com/questions/644/swap-unique-indexed-column-values-in-database
