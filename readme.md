@@ -53,3 +53,6 @@ Swap unique indexed column values in database
 
 Queues in PostGres
 * https://brandur.org/postgres-queues
+
+Queue Services
+* http://queues.io/
