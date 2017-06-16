@@ -50,3 +50,6 @@ So you don't need to enter ssh password all day
 
 Swap unique indexed column values in database
 * https://stackoverflow.com/questions/644/swap-unique-indexed-column-values-in-database
+
+Queues in PostGres
+* https://brandur.org/postgres-queues
