@@ -22,6 +22,10 @@ Ruby
 * Advanced New File - https://packagecontrol.io/packages/AdvancedNewFile
 * GitGutter - https://packagecontrol.io/packages/GitGutter
 * Origami - https://github.com/SublimeText/Origami
+* Aligntab - https://github.com/randy3k/AlignTab
+
+For scala
+* ensime - https://github.com/ensime/ensime-sublime
 
 # iterm
 
