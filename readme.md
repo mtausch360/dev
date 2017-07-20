@@ -61,8 +61,9 @@ Queues in PostGres
 Queue Services
 * http://queues.io/
 
-Flow React Cheat sheet
-* https://www.saltycrane.com/blog/2016/06/flow-type-cheat-sheet/#lib/react.js
-
+Flow
+* Cheat sheet - https://www.saltycrane.com/blog/2016/06/flow-type-cheat-sheet/#lib/react.js
+* Best Practices - https://building.coursera.org/blog/2017/06/01/best-practices-for-flow-typing-react-components/
+* Looks nice - redux flow tips - http://hackhat.com/p/316/best-practices-with-redux-flow-type-asyncawait-and-a-few-extra-tips/
 Numi
 * http://numi.io/
