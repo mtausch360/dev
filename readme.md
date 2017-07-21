@@ -67,3 +67,6 @@ Flow
 * Looks nice - redux flow tips - http://hackhat.com/p/316/best-practices-with-redux-flow-type-asyncawait-and-a-few-extra-tips/
 Numi
 * http://numi.io/
+
+Fonts
+* https://www.hanselman.com/blog/MonospacedProgrammingFontsWithLigatures.aspx
