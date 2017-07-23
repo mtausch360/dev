@@ -61,6 +61,9 @@ Queues in PostGres
 Queue Services
 * http://queues.io/
 
+Async Functions JS 
+* https://developers.google.com/web/fundamentals/getting-started/primers/async-functions
+
 Flow
 * Cheat sheet - https://www.saltycrane.com/blog/2016/06/flow-type-cheat-sheet/#lib/react.js
 * Best Practices - https://building.coursera.org/blog/2017/06/01/best-practices-for-flow-typing-react-components/
