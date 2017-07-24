@@ -63,6 +63,7 @@ Queue Services
 
 Async Functions JS 
 * https://developers.google.com/web/fundamentals/getting-started/primers/async-functions
+* https://hackernoon.com/javascript-es7-async-await-bible-tutorial-example-32294f6133ab
 
 Flow
 * Cheat sheet - https://www.saltycrane.com/blog/2016/06/flow-type-cheat-sheet/#lib/react.js
