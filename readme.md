@@ -74,3 +74,6 @@ Numi
 
 Fonts
 * https://www.hanselman.com/blog/MonospacedProgrammingFontsWithLigatures.aspx
+
+To read
+* https://aeon.co/essays/how-work-changed-to-make-us-all-passionate-quitters
