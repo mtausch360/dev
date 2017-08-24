@@ -80,3 +80,10 @@ Fonts
 
 To read
 * https://aeon.co/essays/how-work-changed-to-make-us-all-passionate-quitters
+
+
+# Cheat Sheets/Keyboard shortcuts
+
+Google Chrome
+* https://support.google.com/chrome/answer/157179?hl=en
+
