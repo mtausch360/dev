@@ -1,11 +1,12 @@
 
 # Sublime
 
+Install Package Control
+* https://packagecontrol.io/installation
+
 create symlink for sublime 'subl' in terminal
  * `ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime`
-
-Oceanic Next color theme for ES6/JSX support
- * https://github.com/voronianski/oceanic-next-color-scheme
+Oceanic Next color theme for ES6/JSX support * https://github.com/voronianski/oceanic-next-color-scheme
 
 Boxy Ocean Sublime theme
 * https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016
@@ -52,7 +53,6 @@ So you don't need to enter ssh password all day
 
 # Misc packages
 https://www.npmjs.com/package/query-string
-
 # Misc Problems
 
 Swap unique indexed column values in database
