@@ -87,3 +87,8 @@ To read
 Google Chrome
 * https://support.google.com/chrome/answer/157179?hl=en
 
+
+# Mac OSX Apps
+
+Magnet
+* http://magnet.crowdcafe.com/
