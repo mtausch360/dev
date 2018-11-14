@@ -1,6 +1,5 @@
 {
 	"always_show_minimap_viewport": false,
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
 	"dpi_scale": 0.8,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Hasklig Light",
@@ -16,7 +15,8 @@
 	[
 		120
 	],
+	"skin": "DA UI/Classic",
 	"tab_size": 2,
-	"theme": "Boxy Ocean.sublime-theme",
+	"theme": "DA.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
