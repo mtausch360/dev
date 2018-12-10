@@ -1,22 +1,25 @@
 [user]
-	name = [Your name]
-	email = [your email]
+	name     = [Your name]
+	email    = [Your email]
+	password = [Your Password]
+
 [core]
 	autocrlf = false
 	safecrlf = true
+
 [alias]
-	co = checkout
-	cob = checkout -b
+	co   = checkout
+	cob  = checkout -b
 	cobo = checkout -b origin
-	com = checkout master
-	pom = pull origin master
-	po = push origin
-	aa = add .
-	aaa = add -all
-	cm = commit
-	st = status
-	br = branch
-	brd = branch -D
+	com  = checkout master
+	pom  = pull origin master
+	po   = push origin
+	aa   = add .
+	aaa  = add -all
+	cm   = commit
+	st   = status
+	br   = branch
+	brd  = branch -D
 	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
 	type = cat-file -t
 	dump = cat-file -p

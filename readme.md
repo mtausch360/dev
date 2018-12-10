@@ -37,15 +37,16 @@ Ruby
 ### plugins
 * Babel Sublime syntax support for JSX
 * Emmet
-* sidebarenhancements https://github.com/titoBouzout/SideBarEnhancements
-* ESLint - https://github.com/yannickcr/eslint-plugin-react
-* Sublime linter - https://github.com/roadhump/SublimeLinter-eslint
-* Advanced New File - https://packagecontrol.io/packages/AdvancedNewFile
-* GitGutter - https://packagecontrol.io/packages/GitGutter
-* Origami - https://github.com/SublimeText/Origami
-* Aligntab - https://github.com/randy3k/AlignTab
+* [sidebarenhancements](https://github.com/titoBouzout/SideBarEnhancements)
+* [ESLint](https://github.com/yannickcr/eslint-plugin-react)
+* [Sublime linter](https://github.com/roadhump/SublimeLinter-eslint)
+* [Advanced New File](https://packagecontrol.io/packages/AdvancedNewFile)
+* [GitGutter](https://packagecontrol.io/packages/GitGutter)
+* [Origami](https://github.com/SublimeText/Origami)
+* [Aligntab](https://github.com/randy3k/AlignTab)
+* [HTML CSS JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)
 
-For scala
+Scala
 * ensime - https://github.com/ensime/ensime-sublime
 
 # iterm
