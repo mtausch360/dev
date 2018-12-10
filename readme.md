@@ -17,6 +17,9 @@ Install `wget`
 Install ohmyzsh
 * https://ohmyz.sh
 
+Install Node
+* `brew install node`
+
 # Sublime
 
 Install Package Control
