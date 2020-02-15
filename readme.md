@@ -120,3 +120,20 @@ Google Chrome
 
 Magnet
 * http://magnet.crowdcafe.com/
+
+
+#### Tech Notes
+
+# React
+
+# React DOM
+
+# React Router
+
+# Redux
+
+# Babel
+
+# Webpack
+
+# Webpack Dev Server
