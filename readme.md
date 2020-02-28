@@ -54,12 +54,8 @@ Scala
 
 # iterm
 
-Color Schemes
-* https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/README.md
-* currently using toychest
-
-Source Code Pro font for powerline
-* https://github.com/powerline/fonts/tree/master/SourceCodePro
+Fira Code
+* https://github.com/tonsky/FiraCode
 
 Oh My Zsh Installation
 * https://gist.github.com/kevin-smets/8568070
